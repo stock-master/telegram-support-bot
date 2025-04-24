@@ -26,7 +26,7 @@ WELCOME_MESSAGE=  # text of a message that bot will write on /start command
 # Support team must reply to "bot reply", not to original user forwarded message
 # Customize message for support team here:
 REPLY_TO_THIS_MESSAGE=User above don't allow forward his messages. Reply to this message.
-# If support reply to forwarded messages with hidded sender, bor warns with next error:
+# If support reply to forwarded messages with hidded sender, bot warns with next error:
 WRONG_REPLY=User above don't allow forward his messages. You must reply to bot reply under user forwarded message.
 
 ```
